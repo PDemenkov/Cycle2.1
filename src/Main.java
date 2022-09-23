@@ -9,7 +9,6 @@ public class Main {
                 System.out.println(i);
             }
         }
-
         System.out.println("Задание 2");
         int num = 2;
         for (int i = 1; i<=10;i++){
